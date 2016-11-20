@@ -1,0 +1,19 @@
+{
+  "name": "simple-node-app",
+  "version": "1.0.0",
+  "description": "node app for testing travis ci",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thamaraiselvam/travis-ci-simple-node-app.git"
+  },
+  "author": "Thamaraiselvam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thamaraiselvam/travis-ci-simple-node-app/issues"
+  },
+  "homepage": "https://github.com/Thamaraiselvam/travis-ci-simple-node-app#readme"
+}
